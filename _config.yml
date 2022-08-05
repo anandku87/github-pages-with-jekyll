@@ -6,7 +6,7 @@ theme: minima
 author: Anand Kulkarni
 email: anandku2005@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  “You never change your life until you step out of your comfort zone; change begins at the end of your comfort zone.” We have to be honest about what we want and take risks rather than lie to ourselves and make excuses to stay in our comfort zone.”.
+  “You never change your life until you step out of your comfort zone; change begins at the end of your comfort zone.We have to be honest about what we want and take risks rather than lie to ourselves and make excuses to stay in our comfort zone.”.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
