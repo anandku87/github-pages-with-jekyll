@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the DevOps Word"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad that you are here and i am honest to teach you devops ...
